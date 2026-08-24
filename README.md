@@ -61,12 +61,6 @@ imagem limpa                    contornos e metricas
 
 ## Projetos públicos
 
-O painel abaixo é regenerado automaticamente por GitHub Actions a partir dos dados públicos do perfil.
-
-<p align="center">
-  <img width="100%" src="./assets/github-panels.svg" alt="Painel estilizado com repositórios fixados e calendário de contribuições" />
-</p>
-
 <table>
   <tr>
     <td width="50%">
