@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/cv-scan.svg" alt="Painel visual de segmentação de imagens com retrato estilizado, máscaras e linha de varredura" />
+  <img width="100%" src="./assets/cv-scan.svg" alt="Fluxo visual de segmentação de imagens com imagem real apontando para uma máscara" />
 </p>
 
 <h1 align="center">Jhonatan Gonzaga</h1>
@@ -61,8 +61,10 @@ imagem limpa                    contornos e metricas
 
 ## Projetos públicos
 
+O painel abaixo é regenerado automaticamente por GitHub Actions a partir dos dados públicos do perfil.
+
 <p align="center">
-  <img width="100%" src="./assets/github-panels.svg" alt="Painel estilizado com repositórios fixados e 559 contribuições no último ano" />
+  <img width="100%" src="./assets/github-panels.svg" alt="Painel estilizado com repositórios fixados e calendário de contribuições" />
 </p>
 
 <table>
